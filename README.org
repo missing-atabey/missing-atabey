@@ -1,4 +1,0 @@
-* Hi there 👋
-
-#+CAPTION: Stats counter for my account
-[[https://img.shields.io/badge/any_text-you_like-blue]]
